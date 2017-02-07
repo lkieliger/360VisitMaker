@@ -7,7 +7,7 @@ import org.junit.Test;
  */
 
 
-public class NodeTest {
+public class HotspotTest {
 
     @Test
     public void dummyTest() {

@@ -7,7 +7,7 @@ import org.junit.Test;
  */
 
 
-public class NeighborTest {
+public class SceneTest {
 
     @Test
     public void dummyTest() {
